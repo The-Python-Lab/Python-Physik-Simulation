@@ -43,7 +43,7 @@ pip install pygame pymunk
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/pymunk-sandbox.git
+git clone https://github.com/The-Python-Lab/Python-Physik-Simulation.git
 cd pymunk-sandbox
 python main.py
 ```
